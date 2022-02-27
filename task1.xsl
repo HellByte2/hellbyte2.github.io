@@ -5,13 +5,9 @@
         <html lang="en">
             <head>
                 <meta charset="utf-8"/>
-				<title>Задание 1</title>
-                <script id="MathJax-script"
-                        async=""
-                        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-svg.js"/>
-                <style>
-                    .MathJax { font-size: 300%; }
-                </style>
+		<title>Задание 1</title>
+                <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-svg.js"/>
+                <style>.MathJax { font-size: 300%; }</style>
             </head>
             <body>
                 <math xmlns="http://www.w3.org/1998/Math/MathML">
